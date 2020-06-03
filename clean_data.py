@@ -100,7 +100,7 @@ def states_parties():
 
     df.to_csv('data/candidates.csv', encoding='utf-8', index=False)
 
-def id_match():
+def bio_id_match():
     # this function is not perfect, so it will not be able to fill in all the IDs
     # data/candidates_id_complete.csv has all the missing IDs filled in manually
     df = pandas.read_csv('data/candidates.csv')
@@ -121,6 +121,43 @@ def id_match():
                         df.at[row.Index, 'BIO_ID'] = m['id']
     df.to_csv('data/candidates_id_missing.csv', encoding='utf-8', index=False)
 
+def fec_id_match():
+    df = pandas.read_csv('data/candidates_nodups.csv')
+    df['FEC_ID'] = ''
+    for row in df.itertuples():
+        name = row.Freshman
+        url = 'https://api.open.fec.gov/v1/names/candidates?api_key={0}&q={1}'.format(config['DATA_GOV_API_KEY'], name)
+        resp = requests.get(url).json()
+
+        for r in resp['results']:
+            if r['office_sought'] == 'H':
+                df.at[row.Index, 'FEC_ID'] = r['id']
+    
+    df.to_csv('data/candidates_fec.csv', encoding='utf-8', index=False)
+# def crp_id_match():
+#     df = pandas.read_csv('data/candidates_nodups.csv')
+#     congresses = [112, 113, 114, 115, 116]
+#     df['first'] = ''
+#     df['last'] = ''
+#     for congress in congresses:
+#         with open('ex_data/{0}.json'.format(congress)) as file:
+#             data = json.load(file)
+#         for row in df.itertuples():
+#             BIO_ID = row.BIO_ID
+#             if row.last == '':
+#                 for m in data['results'][0]['members']:
+#                     if BIO_ID == m['id']:
+#                         df.at[row.Index, 'last'] = m['last_name']
+#             if row.first == '':
+#                 for m in data['results'][0]['members']:
+#                     if BIO_ID == m['id']:
+#                         df.at[row.Index, 'first'] = m['first_name']
+#                         # if m['crp_id'] == None:
+#                         #     df.at[row.Index, 'CRP_ID'] = 'replace'
+#                         # else:
+#                         #     df.at[row.Index, 'CRP_ID'] = m['crp_id']                
+#     df.to_csv('data/candidates_name.csv', encoding='utf-8', index=False)
+    
 def find_dups():
     # this function will only output the duplicate ids, you will have to go in manually to remove the rows from the csv..do this programmatically?
     df = pandas.read_csv('data/candidates_id_complete.csv', usecols=['BIO_ID'])

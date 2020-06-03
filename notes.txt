@@ -1,0 +1,6 @@
+https://www.govinfo.gov/features/CDIR-115
+https://www.minnpost.com/eric-black-ink/2017/04/congressional-dues-help-garner-good-committee-assignments/
+https://www.theatlantic.com/politics/archive/2014/11/so-youve-won-election-to-congressnow-what/382421/
+https://www.nytimes.com/interactive/2019/01/26/opinion/sunday/paths-to-congress.html
+https://github.com/unitedstates/congress-legislators
+https://www.sqlitetutorial.net/sqlite-import-csv/
