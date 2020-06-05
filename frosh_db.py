@@ -4,10 +4,10 @@ import pandas as pd
 with open('config.json') as file:
     config = json.load(file)
 
-industry_amounts_df = pd.read_csv('ex_data/CRP_Categories.csv', sep='\t', usecols=['Catcode'])
+industry_amounts_df = pd.read_csv('data/CRP_Categories.csv', sep='\t', usecols=['Catcode'])
 industry_amounts_df['Amount'] = 0
 
-conn = sqlite3.connect('/Volumes/Misc/Money in Politics/crp/crp.db')
+conn = sqlite3.connect(config['SQLITE_PATH'])
 cur = conn.cursor()
 
 cur.execute("select id, committee_fec_id, election_year from legislators")

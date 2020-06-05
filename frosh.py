@@ -3,7 +3,7 @@ import yaml, requests, json, sqlite3
 with open('config.json') as file:
     config = json.load(file)
 
-conn = sqlite3.connect('/Volumes/Misc/Money in Politics/crp/crp.db')
+conn = sqlite3.connect(config['SQLITE_PATH'])
 cur = conn.cursor()
 
 start_dates_congress = {
@@ -16,7 +16,7 @@ start_dates_congress = {
 
 start_dates = list(start_dates_congress) # list of keys
 
-with open('legislators.yaml') as file:
+with open('data/legislators.yaml') as file:
     legislators = yaml.full_load(file)
     print('YAML Loaded.')
 
