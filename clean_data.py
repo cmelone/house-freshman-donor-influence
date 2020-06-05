@@ -141,6 +141,7 @@ def fec_id_match():
     df.to_csv('data/candidates_fec.csv', encoding='utf-8', index=False)
     
 def find_dups():
+    # this finds those who have already served in congress
     # this function will only output the duplicate ids, you will have to go in manually to remove the rows from the csv..do this programmatically?
     df = pandas.read_csv('data/candidates_id_complete.csv', usecols=['BIO_ID'])
 
