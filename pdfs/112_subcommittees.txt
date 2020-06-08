@@ -1,0 +1,121 @@
+#Agriculture
+Conservation, Energy, and Forestry 
+Nutrition and Horticulture 
+General Farm Commodities and Risk Management 
+Livestock, Dairy, and Poultry 
+Rural Development, Research, Biotechnology, and Foreign Agriculture 
+Department Operations, Oversight, and Credit 
+#Appropriations
+Agriculture, Rural Development, Food and Drug Administration, and Related Agencies 
+Commerce, Justice, Science, and Related Agencies 
+Defense
+Energy and Water Development, and Related Agencies 
+Financial Services and General Government 
+Homeland Security 
+Interior, Environment, and Related Agencies 
+Labor, Health and Human Services, Education, and Related Agencies 
+Legislative Branch 
+Military Construction, Veterans’ Affairs, and Related Agencies 
+State, Foreign Operations, and Related Programs 
+Transportation, Housing and Urban Development, and Related Agencies 
+#Armed Services
+Emerging Threats and Capabilities 
+Military Personnel 
+Oversight and Investigations 
+Readiness
+Seapower and Projection Forces 
+Strategic Forces 
+Tactical Air and Land Forces 
+#Budget
+#Education and the Workforce  
+Early Childhood, Elementary and Secondary Education 
+Higher Education and Workforce Training 
+Health, Employment, Labor, and Pensions 
+Workforce Protections 
+#Energy and Commerce 
+Commerce, Manufacturing, and Trade 
+Communications and Technology 
+Energy and Power 
+Environment and the Economy 
+Health
+Oversight and Investigations 
+#Ethics
+#Financial Services
+Capital Markets and Government Sponsored Enterprises 
+Domestic Monetary Policy and Technology 
+Financial Institutions and Consumer Credit 
+Insurance, Housing and Community Opportunity 
+International Monetary Policy and Trade 
+Oversight and Investigations 
+#Foreign Affairs
+Africa, Global Health, and Human Rights 
+Asia and the Pacific 
+Europe and Eurasia 
+The Middle East and South Asia 
+Oversight and Investigations 
+Terrorism, Nonproliferation, and Trade 
+The Western Hemisphere 
+#Homeland Security
+Border and Maritime Security 
+Counterterrorism and Intelligence 
+Cybersecurity, Infrastructure Protection, and Security Technologies 
+Emergency Preparedness, Response and Communications 
+Oversight, Investigations, and Management 
+Transportation Security 
+#House Administration
+Elections
+Oversight
+#Judiciary
+The Constitution 
+Courts, Commercial and Administrative Law 
+Crime, Terrorism, and Homeland Security 
+Immigration Policy and Enforcement 
+Intellectual Property, Competition, and the Internet 
+#Natural Resources 
+Energy and Mineral Resources 
+Fisheries, Wildlife, Oceans and Insular Affairs 
+Indian and Alaska Native Affairs 
+National Parks, Forests and Public Lands 
+Water and Power 
+#Oversight and Government Reform
+Federal Workforce, U.S. Postal Service and Labor Policy 
+Government Organization, Efficiency and Financial Management 
+Health Care, District of Columbia, Census and the National Archives 
+National Security, Homeland Defense and Foreign Operations 
+Regulatory Affairs, Stimulus Oversight and Government Spending 
+Tarp, Financial Services and Bailouts of Public and Private Programs 
+Technology, Information Policy, Intergovernmental Relations and Procurement Reform 
+#Rules
+Legislative and Budget Process 
+Rules and Organization of the House 
+#Science, Space, and Technology 
+Energy and Environment 
+Investigations and Oversight 
+Research and Science Education 
+Space and Aeronautics 
+Technology and Innovation 
+#Small Business 
+Agriculture, Energy and Trade 
+Contracting and Workforce 
+Economic Growth, Tax and Capital Access 
+Healthcare and Technology 
+Investigations, Oversight and Regulations 
+#Transportation and Infrastructure 
+Aviation
+Coast Guard and Maritime Transportation 
+Economic Development, Public Buildings, and Emergency Management 
+Highways and Transit 
+Railroads, Pipelines, and Hazardous Materials 
+Water Resources and Environment 
+#Veterans’ Affairs
+Disability Assistance and Memorial Affairs 
+Economic Opportunity 
+Health
+Oversight and Investigations 
+#Ways and Means 
+Health
+Human Resources 
+Oversight
+Select Revenue Measures 
+Social Security 
+Trade
