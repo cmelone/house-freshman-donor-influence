@@ -1,3 +1,8 @@
+# this script takes a file generated from the congressional directory pdf for a certain congress, and a file that has a list of all subcommittees and committees for that congress
+# it matches each legislator from the specific congress and adds their entries to the database
+# what to change: open('pdfs/112_subcommittees.txt') as f: and  with open('pdfs/112_cmtes.txt') as file: to match the congress,
+# and the first cur.execute command to only match the congress
+
 #TODO: assign each committee/subcommittee to a crp sector code
 import requests, json, sqlite3
 from collections import Counter
@@ -61,7 +66,6 @@ if legislators != ():
                             found_cmte = True
         rep_subcmte_arr.append({'id': legislator_id, 'subcommittees': subcmte_arr, 'congress': congress})
 
-
 for entry in rep_subcmte_arr:
     for subcmte in entry['subcommittees']:
         cur.execute("select id from committees where congress={0} and name='{1}'".format(entry['congress'], subcmte['parent_committee']))
@@ -76,82 +80,3 @@ for entry in rep_subcmte_arr:
 
 conn.commit()
 conn.close()
-
-
-
-# congresses = [112, 113, 114, 115, 116]
-# congress_sub_committees_arr = []
-
-# for congress in congresses:
-#     url = 'https://api.propublica.org/congress/v1/{0}/house/committees.json'.format(congress)
-#     congress_sub_committees_arr.append({'congress': congress, 'subcommittees': requests.get(url, headers={'X-API-Key': config['PROPUBLICA_API_KEY']}).json()})
-
-# final_subcmte_arr = []
-
-# for rep in rep_subcmte_arr:
-#     rep_id = rep['id']
-#     rep_congress = rep['congress']
-#     rep_subcommittees = rep['subcommittees']
-#     final_rep_subcommitees = []
-
-#     for c in congress_sub_committees_arr:
-#         if rep_congress == c['congress']:
-#             for cmte in c['subcommittees']['results'][0]['committees']:
-#                 for subcmte in cmte['subcommittees']:
-#                     if subcmte['name'] in rep_subcommittees:
-#                         final_rep_subcommitees.append(subcmte['name'])
-#     final_subcmte_arr.append({'id': rep_id, 'subcommittees': final_rep_subcommitees})
-
-# print(rep_subcmte_arr)
-# print(final_subcmte_arr)
-
-
-
-
-
-# for rep in rep_subcmte_arr:
-#     congress = rep['congress']
-
-#     url = 'https://api.propublica.org/congress/v1/{0}/house/committees.json'.format(congress)
-#     resp = requests.get(url, headers={'X-API-Key': config['PROPUBLICA_API_KEY']}).json()
-#     for res in resp:
-
-
-# url = 'https://api.propublica.org/congress/v1/members/{0}.json'.format(legislator_bioguide_id)
-# 33resp = requests.get(url, headers={'X-API-Key': config['PROPUBLICA_API_KEY']}).json()
-
-
-# arr=[]
-# b=[]
-# if legislators != ():
-#     for legislator in legislators:
-#         b.append(legislator[0])
-#         if legislator[1] != None:
-#             name = legislator[1]
-#         else:
-#             name = legislator[0]
-#         # print(legislator[0], name)
-#         bb=[]
-#         #print(name)
-#         for i, line in enumerate(lines):
-#             bb.append(line)
-#             if name in line:
-#                 # print({'jjjjj': list(reversed(bb))})
-#                 satisfied = False
-#                 for b, item in enumerate(reversed(bb)):
-#                     if  satisfied == False and len(item.strip()) > 0:
-#                         #print(item.strip())
-#                         if item.strip().endswith(', Chair'):
-#                             # print(list(reversed(bb))[0])
-#                             print(list(reversed(bb))[b+2])
-#                             satisfied = True
-
-#                 arr.append(name)
-
-
-
-
-
-#print(dict(Counter(arr)))
-#e=list(dict(Counter(arr)))
-#print(len(Counter(arr)))

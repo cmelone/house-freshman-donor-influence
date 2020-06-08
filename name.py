@@ -1,3 +1,9 @@
+# this script identifies the legislators that need to have an alt_full_name added to their db entry
+# the legislator's full names are collected from legislators.yaml, but the congressional directory file may have different names for those legislators
+# this code essentially gets the full names for the legislators in a certain congress, searches those names in the file, and then outputs the names
+# that weren't sound
+# when running, change the first cur.execute and with open('pdfs/114_cmtes.txt') as file: to reflect the correct congress
+
 import requests, json, sqlite3
 from collections import Counter
 

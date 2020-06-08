@@ -1,3 +1,5 @@
+# this file got all the subcommittees and committees for the legislators in the 115th and 116th congress, because that is where the propublica data was available
+# however, it is not needed anymore as the methods have changed
 import requests, json, sqlite3
 
 with open('config.json') as file:
