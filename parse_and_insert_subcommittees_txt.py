@@ -66,6 +66,9 @@ if legislators != ():
                             found_cmte = True
         rep_subcmte_arr.append({'id': legislator_id, 'subcommittees': subcmte_arr, 'congress': congress})
 
+# this takes the subcommittees reported for the 112, 113, and 114 congresses and adds them to the subcommittee member databases
+# the script that actually adds the subcommittee names into the database needs to be ran before this
+
 for entry in rep_subcmte_arr:
     for subcmte in entry['subcommittees']:
         cur.execute("select id from committees where congress={0} and name='{1}'".format(entry['congress'], subcmte['parent_committee']))
