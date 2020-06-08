@@ -1,0 +1,365 @@
+Parent Committee: Agriculture. Subcommittee: Conservation, Energy, and Forestry
+Provide sector code or type NA if there is no match: A5000, A5200, E0000, E1000, JE300
+Parent Committee: Agriculture. Subcommittee: Nutrition and Horticulture
+Provide sector code or type NA if there is no match: A0000, A3100, A4000, A8000, H4600
+Parent Committee: Agriculture. Subcommittee: General Farm Commodities and Risk Management
+Provide sector code or type NA if there is no match: A1100, A1200, A1500, A1600, F3100
+Parent Committee: Agriculture. Subcommittee: Livestock, Dairy, and Poultry
+Provide sector code or type NA if there is no match: A2000, A2300, A3000, A3200, A3300
+Parent Committee: Agriculture. Subcommittee: Rural Development, Research, Biotechnology, and Foreign Agriculture
+Provide sector code or type NA if there is no match: A0000, A6000, A6500, H4500
+Parent Committee: Agriculture. Subcommittee: Department Operations, Oversight, and Credit
+Provide sector code or type NA if there is no match: A0000
+Parent Committee: Appropriations. Subcommittee: Agriculture, Rural Development, Food and Drug Administration, and Related Agencies
+Provide sector code or type NA if there is no match: A0000, H4300, H4400, H4700, E1600, G2000, G2100, G2300, G2350, G2500
+Parent Committee: Appropriations. Subcommittee: Commerce, Justice, Science, and Related Agencies
+Provide sector code or type NA if there is no match: G0000, G1000, G1100
+Parent Committee: Appropriations. Subcommittee: Defense
+Provide sector code or type NA if there is no match: LD100, D0000, D3000, D4000, D5000, D6000, D8000, D9000, JD100
+Parent Committee: Appropriations. Subcommittee: Energy and Water Development, and Related Agencies
+Provide sector code or type NA if there is no match: E0000, E1000, E1100, E1110, E1120, E1140, E1150, E1160, E1170, E1180, E1190, E1200, E1210, E1220, E1230, E1240, E1300, E1320, E1500, E1600, E1610, E1620, E1630, E1700, E2000, E5000
+Parent Committee: Appropriations. Subcommittee: Financial Services and General Government
+Provide sector code or type NA if there is no match: F0000, F1000, F1100, F1200, F1300, F1400, F1410, F1420, F2000, F2100, F2110, F2200, F2300, F2400, F2500, F2600, F2700, F3000,  F3100,  F3200,  F3300,  F3400,  F4000,  F4100,  F4200,  F4300,  F4400,  F4500,  F4600,  F4700,  F5000,  F5100,  F5200,  F5300,  F5500,  F7000
+Parent Committee: Appropriations. Subcommittee: Homeland Security
+Provide sector code or type NA if there is no match: D6000
+Parent Committee: Appropriations. Subcommittee: Interior, Environment, and Related Agencies
+Provide sector code or type NA if there is no match: JE300, E0000, E2000
+Parent Committee: Appropriations. Subcommittee: Labor, Health and Human Services, Education, and Related Agencies
+Provide sector code or type NA if there is no match: H0000, H5000, H5100, H5150, H5170, H5200, H5300, H6000, JH100, F3200, H1000, H1100, H1110, H3000, H4000, H4100, H4300, H4400
+Parent Committee: Appropriations. Subcommittee: Legislative Branch
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Appropriations. Subcommittee: Military Construction, Veterans’ Affairs, and Related Agencies
+Provide sector code or type NA if there is no match: B0000, B1500, B1000, B0500
+Parent Committee: Appropriations. Subcommittee: State, Foreign Operations, and Related Programs
+Provide sector code or type NA if there is no match: J5000, JD100, JD200, K2100
+Parent Committee: Appropriations. Subcommittee: Transportation, Housing and Urban Development, and Related Agencies
+Provide sector code or type NA if there is no match: LT000, LT100, LT300, LT400, LT500, LT600, T0000, T1000, T1100, T1200, T1300, T1400, T1500, T1600, T1700, T2000, T2100, T2200, T2300, T2310, T2400, T2500, T3000, T3100, T3200, T4000, T4100, T4200, T5000, T5100, T5200, T5300, T6000, T6100, T6200, T6250, T7000, T7100
+Parent Committee: Armed Services. Subcommittee: Emerging Threats and Capabilities
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Armed Services. Subcommittee: Military Personnel
+Provide sector code or type NA if there is no match: X5000
+Parent Committee: Armed Services. Subcommittee: Oversight and Investigations
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Armed Services. Subcommittee: Readiness
+Provide sector code or type NA if there is no match: D9000
+Parent Committee: Armed Services. Subcommittee: Seapower and Projection Forces
+Provide sector code or type NA if there is no match: D5000
+Parent Committee: Armed Services. Subcommittee: Strategic Forces
+Provide sector code or type NA if there is no match: D8000
+Parent Committee: Armed Services. Subcommittee: Tactical Air and Land Forces
+Provide sector code or type NA if there is no match: D2000, D8000
+Parent Committee: Education and the Workforce. Subcommittee: Early Childhood, Elementary and Secondary Education
+Provide sector code or type NA if there is no match: J7700, X3500, H5000, H0000
+Parent Committee: Education and the Workforce. Subcommittee: Higher Education and Workforce Training
+Provide sector code or type NA if there is no match: H5100, H5150, H5170, H5200
+Parent Committee: Education and the Workforce. Subcommittee: Health, Employment, Labor, and Pensions
+Provide sector code or type NA if there is no match: H5000, L0000, L1000, L1100, L1200, L1300, L1400, L1500, L5000, LA100, LB100, LC100, LC150, LD100, LE100, LE200, LG000, LG100, LG200, LG300, LG400, LG500, LH100, LM100, LM150, LT000, LT100, LT300, LT400, LT500, LT600
+Parent Committee: Education and the Workforce. Subcommittee: Workforce Protections
+Provide sector code or type NA if there is no match: L0000, L1000, L1100, L1200, L1300, L1400, L1500, L5000, LA100, LB100, LC100, LC150, LD100, LE100, LE200, LG000, LG100, LG200, LG300, LG400, LG500, LH100, LM100, LM150, LT000, LT100, LT300, LT400, LT500, LT600
+Parent Committee: Energy and Commerce. Subcommittee: Commerce, Manufacturing, and Trade
+Provide sector code or type NA if there is no match: G0000, G1000, G1100, LM100, LM150, M0000, M1000, M1100, M1300, M1400, M1500, M1600, M1700, M2000, M2100, M2200, M2250, M2300, M2400, M3000, M3100, M3200, M3300, M3400, M3500, M3600, M4000, M4100, M4200, M4300, M5000, M5100, M5200, M5300, M6000, M7000, M7100, M7200, M7300, M8000, M9000, M9100, M9200, M9300
+Parent Committee: Energy and Commerce. Subcommittee: Communications and Technology
+Provide sector code or type NA if there is no match: C0000, C1000, C1100, C1300, C1400, C2000, C2100, C2200, C2300, C2400, C2600, C2700, C2800, C2900, C4000, C4100, C4200, C4300, C4400, C4500, C4600, C5000, C5100, C5110, C5120, C5130, C5200, C5300, C5400, C6000, C6100, C6200, C6300, C6400, C6500
+Parent Committee: Energy and Commerce. Subcommittee: Energy and Power
+Provide sector code or type NA if there is no match: E0000, E1000, E1100, E1110, E1120, E1140, E1150, E1160, E1170, E1180, E1190, E1200, E1210, E1220, E1230, E1240, E1300, E1320, E1500, E1600, E1610, E1620, E1630, E1700, E2000, E3000, E4000, E4100, E4200, E5000
+Parent Committee: Energy and Commerce. Subcommittee: Environment and the Economy
+Provide sector code or type NA if there is no match: E2000, JE300, E0000
+Parent Committee: Energy and Commerce. Subcommittee: Health
+Provide sector code or type NA if there is no match: F3200, H1000, H1000, H1100, H1110, H1120, H1130, H1400, H1500, H1700, H1710, H1750, H2000, H2100, H2200, H2300, H3000, H3100, H3200, H3300, H3400, H3500, H3700, H3800, H3900, H4000, H4100, H4200, H4300, H4400, H4500, H4600, H4700
+Parent Committee: Energy and Commerce. Subcommittee: Oversight and Investigations
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Financial Services. Subcommittee: Capital Markets and Government Sponsored Enterprises
+Provide sector code or type NA if there is no match: F2500, F2600
+Parent Committee: Financial Services. Subcommittee: Domestic Monetary Policy and Technology
+Provide sector code or type NA if there is no match: J4000, F0000
+Parent Committee: Financial Services. Subcommittee: Financial Institutions and Consumer Credit
+Provide sector code or type NA if there is no match: F1000, F1100, F1200, F1300, F1400, F1410, F1420, F2000, F2100, F2110, F2200, F2300, F2400
+Parent Committee: Financial Services. Subcommittee: Insurance, Housing and Community Opportunity
+Provide sector code or type NA if there is no match: F3000, F3100, F3200, F3300, F3400, F4000, F4100, F4200, F4300, F4400, F4500, F4600, F4700
+Parent Committee: Financial Services. Subcommittee: International Monetary Policy and Trade
+Provide sector code or type NA if there is no match: G1400, G3500, X8000
+Parent Committee: Financial Services. Subcommittee: Oversight and Investigations
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Foreign Affairs. Subcommittee: Africa, Global Health, and Human Rights
+Provide sector code or type NA if there is no match: J7000, J7300, J7400, J7500, J7510, J7600, J7700
+Parent Committee: Foreign Affairs. Subcommittee: Asia and the Pacific
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Foreign Affairs. Subcommittee: Europe and Eurasia
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Foreign Affairs. Subcommittee: The Middle East and South Asia
+Provide sector code or type NA if there is no match: J5100, J5400
+Parent Committee: Foreign Affairs. Subcommittee: Oversight and Investigations
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Foreign Affairs. Subcommittee: Terrorism, Nonproliferation, and Trade
+Provide sector code or type NA if there is no match: G1400
+Parent Committee: Foreign Affairs. Subcommittee: The Western Hemisphere
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Homeland Security. Subcommittee: Border and Maritime Security
+Provide sector code or type NA if there is no match: LT500, T6000, D6000, D5000
+Parent Committee: Homeland Security. Subcommittee: Counterterrorism and Intelligence
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Homeland Security. Subcommittee: Cybersecurity, Infrastructure Protection, and Security Technologies
+Provide sector code or type NA if there is no match: D6000
+Parent Committee: Homeland Security. Subcommittee: Emergency Preparedness, Response and Communications
+Provide sector code or type NA if there is no match: D6000
+Parent Committee: Homeland Security. Subcommittee: Oversight, Investigations, and Management
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Homeland Security. Subcommittee: Transportation Security
+Provide sector code or type NA if there is no match: LT000, LT100
+Parent Committee: House Administration. Subcommittee: Elections
+Provide sector code or type NA if there is no match: NA
+Parent Committee: House Administration. Subcommittee: Oversight
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Judiciary. Subcommittee: The Constitution
+Provide sector code or type NA if there is no match: K0000, K1000, K1100, K1200
+Parent Committee: Judiciary. Subcommittee: Courts, Commercial and Administrative Law
+Provide sector code or type NA if there is no match: K0000, K1000, K1100, K1200
+Parent Committee: Judiciary. Subcommittee: Crime, Terrorism, and Homeland Security
+Provide sector code or type NA if there is no match: K0000, K1000, K1100, K1200, D6000
+Parent Committee: Judiciary. Subcommittee: Immigration Policy and Enforcement
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Judiciary. Subcommittee: Intellectual Property, Competition, and the Internet
+Provide sector code or type NA if there is no match: K0000, K1000, K1100, K1200, C5100, C5110, C5120, C5130, C5200, C5300, C5400, C6000, C6100, C6200, C6300, C6400, C6500
+Parent Committee: Natural Resources. Subcommittee: Energy and Mineral Resources
+Provide sector code or type NA if there is no match: E1000, E1100, E1110, E1120, E1140, E1150, E1160, E1170, E1180, E1190, E1200, E1210, E1220, E1230, E1240, E1300, E1320, E1500
+Parent Committee: Natural Resources. Subcommittee: Fisheries, Wildlife, Oceans and Insular Affairs
+Provide sector code or type NA if there is no match: E4000, E4100, E4200
+Parent Committee: Natural Resources. Subcommittee: Indian and Alaska Native Affairs
+Provide sector code or type NA if there is no match: G6550
+Parent Committee: Natural Resources. Subcommittee: National Parks, Forests and Public Lands
+Provide sector code or type NA if there is no match: A5000, A5200, E1000, E1100, E1110, E1120, E1140, E1150, E1160, E1170, E1180, E1190, E1200, E1210, E1220, E1230, E1240, E1300, E1320, E1500
+Parent Committee: Natural Resources. Subcommittee: Water and Power
+Provide sector code or type NA if there is no match: E5000, E1600, E1630, E1700
+Parent Committee: Oversight and Government Reform. Subcommittee: Federal Workforce, U.S. Postal Service and Labor Policy
+Provide sector code or type NA if there is no match: L1000, L1100, L1500, X3700
+Parent Committee: Oversight and Government Reform. Subcommittee: Government Organization, Efficiency and Financial Management
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Oversight and Government Reform. Subcommittee: Health Care, District of Columbia, Census and the National Archives
+Provide sector code or type NA if there is no match: H2000
+Parent Committee: Oversight and Government Reform. Subcommittee: National Security, Homeland Defense and Foreign Operations
+Provide sector code or type NA if there is no match: J5000, JD100, JD200, K2100, X9000, D6000
+Parent Committee: Oversight and Government Reform. Subcommittee: Regulatory Affairs, Stimulus Oversight and Government Spending
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Oversight and Government Reform. Subcommittee: Tarp, Financial Services and Bailouts of Public and Private Programs
+Provide sector code or type NA if there is no match: F0000, F1000, F1100, F1200, F1300, F1400, F1410, F1420, F2000, F2100, F2110, F2200, F2300, F2400, F2500, F2600, F2700
+Parent Committee: Oversight and Government Reform. Subcommittee: Technology, Information Policy, Intergovernmental Relations and Procurement Reform
+Provide sector code or type NA if there is no match: C5100, C5110, C5120, C5130, C5200, C5300, C5400, C6000, C6100, C6200, C6300, C6400, C6500
+Parent Committee: Rules. Subcommittee: Legislative and Budget Process
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Rules. Subcommittee: Rules and Organization of the House
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Science, Space, and Technology. Subcommittee: Energy and Environment
+Provide sector code or type NA if there is no match: E0000, E1000, E1100, E1110, E1120, E1140, E1150, E1160, E1170, E1180, E1190, E1200, E1210, E1220, E1230, E1240, E1300, E1320, E1500, E1600, E1610, E1620, E1630, E1700, E2000, E3000, E4000, E4100, E4200, E5000
+Parent Committee: Science, Space, and Technology. Subcommittee: Investigations and Oversight
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Science, Space, and Technology. Subcommittee: Research and Science Education
+Provide sector code or type NA if there is no match: D4000
+Parent Committee: Science, Space, and Technology. Subcommittee: Space and Aeronautics
+Provide sector code or type NA if there is no match: D2000, T1700
+Parent Committee: Science, Space, and Technology. Subcommittee: Technology and Innovation
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Small Business. Subcommittee: Agriculture, Energy and Trade
+Provide sector code or type NA if there is no match: A0000, A1000, A1100, A1200, A1300, A1400, A1500, A1600, A2000, A2300, A3000, A3100, A3200, A3300, A3500, A4000, A4100, A4200, A4300, A4500, A5000, A5200, A6000, A6500, A8000 E0000, E1000, E1100, E1110, E1120, E1140, E1150, E1160, E1170, E1180, E1190, E1200, E1210, E1220, E1230, E1240, E1300, E1320, E1500, E1600, E1610, E1620, E1630, E1700, E2000, E3000, E4000, E4100, E4200, E5000, G1400, G3000, G3500, G4000
+Parent Committee: Small Business. Subcommittee: Contracting and Workforce
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Small Business. Subcommittee: Economic Growth, Tax and Capital Access
+Provide sector code or type NA if there is no match: F1300, F1400, F2600, F2700, F3000, F5000, F5100, F5200, F5300, F5500, G1200
+Parent Committee: Small Business. Subcommittee: Healthcare and Technology
+Provide sector code or type NA if there is no match: H0000, H1000, H1100, H1110, H1120, H1130, H1400, H1500, H1700, H1710, H1750, H2000, H2100, H2200, H2300, H3000, H3100, H3200, H3300, H3400, H3500, H3700, H3800, H3900, H4000, H4100, H4200, H4300, H4400, H4500, H4600, H4700, C5000, C5100, C5110, C5120, C5130, C5200, C5300, C5400, C6000, C6100, C6200, C6300, C6400, C6500
+Parent Committee: Small Business. Subcommittee: Investigations, Oversight and Regulations
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Transportation and Infrastructure. Subcommittee: Aviation
+Provide sector code or type NA if there is no match: T1000, T1100, T1200, T1300, T1400, T1500, T1600, T1700
+Parent Committee: Transportation and Infrastructure. Subcommittee: Coast Guard and Maritime Transportation
+Provide sector code or type NA if there is no match: T6000, T6100, T6200, T6250, LT500, D5000
+Parent Committee: Transportation and Infrastructure. Subcommittee: Economic Development, Public Buildings, and Emergency Management
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Transportation and Infrastructure. Subcommittee: Highways and Transit
+Provide sector code or type NA if there is no match: T2000, T2100, T2200, T2300, T2310, T2400, T2500, T3000, T3100, T3200, T4000, T4100, T4200, T5000, T5100, T5200, T5300
+Parent Committee: Transportation and Infrastructure. Subcommittee: Railroads, Pipelines, and Hazardous Materials
+Provide sector code or type NA if there is no match: B5300, LT400, T5000, T5100, T5200, T5300
+Parent Committee: Transportation and Infrastructure. Subcommittee: Water Resources and Environment
+Provide sector code or type NA if there is no match: E5000
+Parent Committee: Veterans’ Affairs. Subcommittee: Disability Assistance and Memorial Affairs
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Veterans’ Affairs. Subcommittee: Economic Opportunity
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Veterans’ Affairs. Subcommittee: Health
+Provide sector code or type NA if there is no match: H0000, H1000, H1100, H1110, H1120, H1130, H1400, H1500, H1700, H1710, H1750, H2000, H2100, H2200, H2300, H3000, H3100, H3200, H3300, H3400, H3500, H3700, H3800, H3900, H4000, H4100, H4200, H4300, H4400, H4500, H4600, H4700
+Parent Committee: Veterans’ Affairs. Subcommittee: Oversight and Investigations
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Ways and Means. Subcommittee: Health
+Provide sector code or type NA if there is no match: H0000, H1000, H1100, H1110, H1120, H1130, H1400, H1500, H1700, H1710, H1750, H2000, H2100, H2200, H2300, H3000, H3100, H3200, H3300, H3400, H3500, H3700, H3800, H3900, H4000, H4100, H4200, H4300, H4400, H4500, H4600, H4700
+Parent Committee: Ways and Means. Subcommittee: Human Resources
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Ways and Means. Subcommittee: Oversight
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Ways and Means. Subcommittee: Select Revenue Measures
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Ways and Means. Subcommittee: Social Security
+Provide sector code or type NA if there is no match: J7200, X1200
+Parent Committee: Ways and Means. Subcommittee: Trade
+Provide sector code or type NA if there is no match: G3000, G1400, G4000
+Parent Committee: Agriculture. Subcommittee: Department Operations, Oversight, and Nutrition
+Provide sector code or type NA if there is no match: H4600
+Parent Committee: Agriculture. Subcommittee: Horticulture, Research, Biotechnology, and Foreign Agriculture
+Provide sector code or type NA if there is no match: H4500, A0000
+Parent Committee: Agriculture. Subcommittee: Livestock, Rural Development, and Credit
+Provide sector code or type NA if there is no match: A3000, F1000, F1100, F1200, F1300, F1400
+Parent Committee: Armed Services. Subcommittee: Intelligence, Emerging Threats and Capabilities
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Education and the Workforce. Subcommittee: Early Childhood, Elementary, and Secondary Education
+Provide sector code or type NA if there is no match: J7700, X3500
+Parent Committee: Financial Services. Subcommittee: Housing and Insurance
+Provide sector code or type NA if there is no match: F3000, F3100, F3200, F3300, F3400, F4000, F4100, F4200, F4300, F4400, F4500, F4600, F4700
+Parent Committee: Financial Services. Subcommittee: Monetary Policy and Trade
+Provide sector code or type NA if there is no match: G1400, G3000, G4000
+Parent Committee: Foreign Affairs. Subcommittee: Africa, Global Health, Global Human Rights, and International Organizations
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Foreign Affairs. Subcommittee: Europe, Eurasia, and Emerging Threats
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Foreign Affairs. Subcommittee: The Middle East and North Africa
+Provide sector code or type NA if there is no match: J5100, J5400
+Parent Committee: Homeland Security. Subcommittee: Emergency Preparedness, Response, and Communications
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Homeland Security. Subcommittee: Oversight and Management Efficiency
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Judiciary. Subcommittee: The Constitution and Civil Justice
+Provide sector code or type NA if there is no match: K0000, K1000, K1100, K1200
+Parent Committee: Judiciary. Subcommittee: Courts, Intellectual Property, and the Internet
+Provide sector code or type NA if there is no match: K0000, K1000, K1100, K1200, X3200, C5120, C5130, C5200, C5300, C5400, C6000, C6100, C6200, C6300, C6400, C6500
+Parent Committee: Judiciary. Subcommittee: Crime, Terrorism, Homeland Security, and Investigations
+Provide sector code or type NA if there is no match: D6000
+Parent Committee: Judiciary. Subcommittee: Immigration and Border Security
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Judiciary. Subcommittee: Regulatory Reform, Commercial and Antitrust Law
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Natural Resources. Subcommittee: Public Lands and Environmental Regulation
+Provide sector code or type NA if there is no match: E0000, E1000, E1100, E1110, E1120, E1140, E1150, E1160, E1170, E1180, E1190, E1200, E1210, E1220, E1230, E1240, E1300, E1320, E1500, E1600, E1610, E1620, E1630, E1700, E2000, E3000, E4000, E4100, E4200, E5000, JE300
+Parent Committee: Oversight and Government Reform. Subcommittee: Economic Growth, Job Creation and Regulatory Affairs
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Oversight and Government Reform. Subcommittee: Energy Policy, Health Care and Entitlements
+Provide sector code or type NA if there is no match: E0000, E1000, E1100, E1110, E1120, E1140, E1150, E1160, E1170, E1180, E1190, E1200, E1210, E1220, E1230, E1240, E1300, E1320, E1500, E1600, E1610, E1620, E1630, E1700, E2000, E3000, E4000, E4100, E4200, E5000, JE300, H0000, H1000, H1100, H1110, H1120, H1130, H1400, H1500, H1700, H1710, H1750, H2000, H2100, H2200, H2300, H3000, H3100, H3200, H3300, H3400, H3500, H3700, H3800, H3900, H4000, H4100, H4200, H4300, H4400, H4500, H4600, H4700
+Parent Committee: Oversight and Government Reform. Subcommittee: Federal Workforce, U.S. Postal Service and the Census
+Provide sector code or type NA if there is no match: L1000, L1100, L1500, X3700
+Parent Committee: Oversight and Government Reform. Subcommittee: Government Operations
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Oversight and Government Reform. Subcommittee: National Security
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Science, Space, and Technology. Subcommittee: Energy
+Provide sector code or type NA if there is no match: E0000, E1000, E1100, E1110, E1120, E1140, E1150, E1160, E1170, E1180, E1190, E1200, E1210, E1220, E1230, E1240, E1300, E1320, E1500, E1600, E1610, E1620, E1630, E1700, E2000, E3000, E4000, E4100, E4200, E5000, JE300
+Parent Committee: Science, Space, and Technology. Subcommittee: Environment
+Provide sector code or type NA if there is no match: E0000, E2000, JE300
+Parent Committee: Science, Space, and Technology. Subcommittee: Oversight
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Science, Space, and Technology. Subcommittee: Research and Technology
+Provide sector code or type NA if there is no match: D4000, C5000, C5100, C5110, C5120, C5130, C5200, C5300, C5400, C6000, C6100, C6200, C6300, C6400, C6500
+Parent Committee: Science, Space, and Technology. Subcommittee: Space
+Provide sector code or type NA if there is no match: D2000, T1700
+Parent Committee: Agriculture. Subcommittee: Biotechnology, Horticulture, and Research
+Provide sector code or type NA if there is no match: H4500, A0000
+Parent Committee: Agriculture. Subcommittee: Commodity Exchanges, Energy, and Credit
+Provide sector code or type NA if there is no match: A1100, A1200, A1300, A1400, A1500, A1600 F1000, F1100, F1200, F1300, F1400
+Parent Committee: Agriculture. Subcommittee: Conservation and Forestry
+Provide sector code or type NA if there is no match: A5000, A5200, JE300, E2000
+Parent Committee: Agriculture. Subcommittee: Livestock and Foreign Agriculture
+Provide sector code or type NA if there is no match: A3000, A3300
+Parent Committee: Agriculture. Subcommittee: Nutrition
+Provide sector code or type NA if there is no match: H4600
+Parent Committee: Appropriations. Subcommittee: Military Construction, Veterans Affairs, and Related Agencies
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Financial Services. Subcommittee: Task Force to Investigate Terrorism Financing
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Natural Resources. Subcommittee: Federal Lands
+Provide sector code or type NA if there is no match: E0000, E1000, E1100, E1110, E1120, E1140, E1150, E1160, E1170, E1180, E1190, E1200, E1210, E1220, E1230, E1240, E1300, E1320, E1500, E1600, E1610, E1620, E1630, E1700, E2000, E3000, E4000, E4100, E4200, E5000
+Parent Committee: Natural Resources. Subcommittee: Indian, Insular and Alaska Native Affairs
+Provide sector code or type NA if there is no match: G6550
+Parent Committee: Natural Resources. Subcommittee: Oversight and Investigations
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Natural Resources. Subcommittee: Water, Power and Oceans
+Provide sector code or type NA if there is no match: E5000, E1600, E1630, E1700, T6000, T6100, T6200, T6250
+Parent Committee: Oversight and Government Reform. Subcommittee: Health Care, Benefits, and Administrative Rules
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Oversight and Government Reform. Subcommittee: Information Technology
+Provide sector code or type NA if there is no match: C5100, C5110, C5120, C5130, C5200, C5300, C5400, C6000, C6100, C6200, C6300, C6400, C6500
+Parent Committee: Oversight and Government Reform. Subcommittee: Interior
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Oversight and Government Reform. Subcommittee: Transportation and Public Assets
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Small Business. Subcommittee: Health and Technology
+Provide sector code or type NA if there is no match: C5100, C5110, C5120, C5130, C5200, C5300, C5400, C6000, C6100, C6200, C6300, C6400, C6500, H0000, H1000, H1100, H1110, H1120, H1130, H1400, H1500, H1700, H1710, H1750, H2000, H2100, H2200, H2300, H3000, H3100, H3200, H3300, H3400, H3500, H3700, H3800, H3900, H4000, H4100, H4200, H4300, H4400, H4500, H4600, H4700
+Parent Committee: Ways and Means. Subcommittee: Tax Policy
+Provide sector code or type NA if there is no match: J4000, F5300
+Parent Committee: Judiciary. Subcommittee: Immigration and Citizenship
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Agriculture. Subcommittee: Nutrition, Oversight, and Department Operations
+Provide sector code or type NA if there is no match: H4600
+Parent Committee: Homeland Security. Subcommittee: Oversight, Management, and Accountability
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Homeland Security. Subcommittee: Border Security, Facilitation, and Operations
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Natural Resources. Subcommittee: Water, Oceans, and Wildlife
+Provide sector code or type NA if there is no match: E5000, E4000, E4100, E4200, T6000, T6100, T6200, T6250
+Parent Committee: Education and the Workforce. Subcommittee: Higher Education and Workforce Investment
+Provide sector code or type NA if there is no match: H5100, H5150, H5170, H5200, H5300
+Parent Committee: Judiciary. Subcommittee: Antitrust, Commercial and Administrative Law
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Judiciary. Subcommittee: Crime, Terrorism and Homeland Security
+Provide sector code or type NA if there is no match: D6000
+Parent Committee: Homeland Security. Subcommittee: Emergency Preparedness, Response, and Recovery
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Small Business. Subcommittee: Contracting and Infrastructure
+Provide sector code or type NA if there is no match: B0000, B0500, B1000, B1200, B1500, B2000, B2400, B3000, B3200, B3400, B3600, B4000, B4200, B4300, B4400
+Parent Committee: Small Business. Subcommittee: Rural Development, Agriculture, Trade and Entrepreneurship
+Provide sector code or type NA if there is no match: A1000, A1100, A1200, A1300, A1400, A1500, A1600, A2000, A2300, A3000, A3100, A3200, A3300, A3500, A4000, A4100, A4200, A4300, A4500, A5000, A5200, A6000, A6500, A8000
+Parent Committee: Small Business. Subcommittee: Innovation and Workforce Development
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Armed Services. Subcommittee: Intelligence and Emerging Threats and Capabilities
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Natural Resources. Subcommittee: Indigenous Peoples of the United States
+Provide sector code or type NA if there is no match: G6550
+Parent Committee: Oversight and Government Reform. Subcommittee: Intergovernmental Affairs
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Homeland Security. Subcommittee: Cybersecurity, Infrastructure Protection, and Innovation
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Financial Services. Subcommittee: Consumer Protection and Financial Institutions
+Provide sector code or type NA if there is no match: J3000, F0000, F1000, F1100, F1200, F1300, F1400, F1410, F1420, F2000, F2100, F2110, F2200, F2300, F2400, F2500, F2600, F2700, F3000, F3100, F3200, F3300, F3400, F4000, F4100, F4200, F4300, F4400, F4500, F4600, F4700, F5000, F5100, F5200, F5300, F5500, F7000
+Parent Committee: Financial Services. Subcommittee: National Security, International Development and Monetary Policy
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Foreign Affairs. Subcommittee: Middle East, North Africa, and International Terrorism
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Foreign Affairs. Subcommittee: Western Hemisphere, Civilian Security, and Trade
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Foreign Affairs. Subcommittee: Europe, Eurasia, Energy, and the Environment
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Oversight and Government Reform. Subcommittee: Healthcare, Benefits, and Administrative Rules
+Provide sector code or type NA if there is no match: H1000, H1100, H1110, H1120, H1130, H1400, H1500, H1700, H1710, H1750, H2000, H2100, H2200, H2300, H3000, H3100, H3200, H3300, H3400, H3500, H3700, H3800, H3900, H4000, H4100, H4200, H4300, H4400, H4500, H4600, H4700
+Parent Committee: Financial Services. Subcommittee: Investor Protection, Entrepreneurship, and Capital Markets
+Provide sector code or type NA if there is no match: F0000, F1000, F1100, F1200, F1300, F1400, F1410, F1420, F2000, F2100, F2110, F2200, F2300, F2400, F2500, F2600, F2700, F3000, F3100, F3200, F3300, F3400, F4000, F4100, F4200, F4300, F4400, F4500, F4600, F4700, F5000, F5100, F5200, F5300, F5500, F7000
+Parent Committee: Homeland Security. Subcommittee: Transportation and Maritime Security
+Provide sector code or type NA if there is no match: LT000, T0000, T1000, T1100, T1200, T1300, T1400, T1500, T1600, T1700, T2000, T2100, T2200, T2300, T2310, T2400, T2500, T3000, T3100, T3200, T4000, T4100, T4200, T5000, T5100, T5200, T5300, T6000, T6100, T6200, T6250, T7000
+Parent Committee: Natural Resources. Subcommittee: National Parks, Forests, and Public Lands
+Provide sector code or type NA if there is no match: A5000, A5200, E0000, E1000, E1100, E1110, E1120, E1140, E1150, E1160, E1170, E1180, E1190, E1200, E1210, E1220, E1230, E1240, E1300, E1320, E1500, E1600, E1610, E1620, E1630, E1700, E2000, E3000, E4000, E4100, E4200, E5000
+Parent Committee: Oversight and Government Reform. Subcommittee: Environment
+Provide sector code or type NA if there is no match: E2000, JE300, E0000
+Parent Committee: Judiciary. Subcommittee: Constitution, Civil Rights, and Civil Liberties
+Provide sector code or type NA if there is no match: K0000, K1000, K1100, K1200, X3200
+Parent Committee: Financial Services. Subcommittee: National Security, International Development, and Monetary Policy
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Financial Services. Subcommittee: Housing, Community Development, and Insurance
+Provide sector code or type NA if there is no match: F3000, F3100, F3200, F3300, F3400, F4000, F4100, F4200, F4300, F4400, F4500, F4600, F4700
+Parent Committee: Homeland Security. Subcommittee: Intelligence and Counterterrorism
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Education and the Workforce. Subcommittee: Civil Rights and Human Services
+Provide sector code or type NA if there is no match: J7400, J7500, J7510, J7600, J7700
+Parent Committee: Veterans’ Affairs. Subcommittee: Technology Modernization
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Oversight and Government Reform. Subcommittee: Civil Rights and Civil Liberties
+Provide sector code or type NA if there is no match: J7400, J7500, J7510, J7600, J7700
+Parent Committee: Oversight and Government Reform. Subcommittee: Economic and Consumer Policy
+Provide sector code or type NA if there is no match: J3000, J4000
+Parent Committee: Financial Services. Subcommittee: Diversity and Inclusion
+Provide sector code or type NA if there is no match: NA
+Parent Committee: Foreign Affairs. Subcommittee: Asia, the Pacific, and Nonproliferation
+Provide sector code or type NA if there is no match: NA
+Database updated with sector codes
