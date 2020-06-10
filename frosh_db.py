@@ -10,7 +10,7 @@ industry_amounts_df['Amount'] = 0
 conn = sqlite3.connect(config['SQLITE_PATH'])
 cur = conn.cursor()
 
-cur.execute("select id, committee_fec_id, election_year from legislators")
+cur.execute("select id, committee_fec_id, election_year, full_name from legislators")
 legislators = cur.fetchall()
 count = 0
 
@@ -19,9 +19,11 @@ if legislators != ():
         legislator_id = legislator[0]
         legislator_committee_fec_id = legislator[1]
         cycle = legislator[2] - 2000 # i.e. 2018 - 2000 = 18, which is how CRP represents cycles in the table name
-
         cur.execute("select amount, RealCode from indivs_{0} where CmteID='{1}'".format(cycle, legislator_committee_fec_id))
         transactions = cur.fetchall()
+        
+        if len(transactions) == 0:
+            print(legislator[3]) # print legislator name if they don't have any transactions for the cycle (which could indicate incorrect committee id)
 
         if transactions != ():
             count += 1

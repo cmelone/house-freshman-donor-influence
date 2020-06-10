@@ -7,7 +7,7 @@
 import requests, json, sqlite3
 from collections import Counter
 
-with open('pdfs/112_subcommittees.txt') as f:
+with open('pdfs/114_subcommittees.txt') as f:
     subcmtes_read = f.read()
     subcmtes = []
     cmtes = []
@@ -23,9 +23,9 @@ with open('config.json') as file:
 conn = sqlite3.connect(config['SQLITE_PATH'])
 cur = conn.cursor()
 
-cur.execute("select full_name, alt_full_name, id, congress from legislators where congress=112 or congress=113 or congress=114")
+cur.execute("select full_name, alt_full_name, id, congress from legislators where congress=114")
 
-with open('pdfs/112_cmtes.txt') as file:
+with open('pdfs/114_cmtes.txt') as file:
     data = file.read()
 lines = data.splitlines()
 legislators = cur.fetchall()
@@ -68,13 +68,13 @@ if legislators != ():
 
 # this takes the subcommittees reported for the 112, 113, and 114 congresses and adds them to the subcommittee member databases
 # the script that actually adds the subcommittee names into the database needs to be ran before this
-
+#print(rep_subcmte_arr)
 for entry in rep_subcmte_arr:
     for subcmte in entry['subcommittees']:
-        cur.execute("select id from committees where congress={0} and name='{1}'".format(entry['congress'], subcmte['parent_committee']))
+        cur.execute("select id from committees where name='{0}'".format(subcmte['parent_committee']))
         cmte_match = cur.fetchall()
 
-        if cmte_match != ():
+        if len(cmte_match) > 0:
             cur.execute("select id from subcommittees where congress={0} and name='{1}' and parent_id={2}".format(entry['congress'], subcmte['subcommittee'], cmte_match[0][0]))
             subcmte_match = cur.fetchall()
 

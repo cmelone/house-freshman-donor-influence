@@ -51,8 +51,6 @@ for subcmte in subcmtes_entries:
         sector_code = input('Provide sector code or type NA if there is no match: ')
         subcmte['sector_code'] = sector_code
 
-# TODO: manually assign sector codes (the general ones though) to the committees table
-
 for subcmte in subcmtes_entries:
     for id_ in subcmte['entries']:
         cur.execute("UPDATE subcommittees set sector_code = '{0}' where id={1}".format(subcmte['sector_code'], id_))

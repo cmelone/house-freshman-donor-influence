@@ -4,3 +4,13 @@ https://www.theatlantic.com/politics/archive/2014/11/so-youve-won-election-to-co
 https://www.nytimes.com/interactive/2019/01/26/opinion/sunday/paths-to-congress.html
 https://github.com/unitedstates/congress-legislators
 https://www.sqlitetutorial.net/sqlite-import-csv/
+
+
+can set up predictive model to see which committees and subcommittees a nonincumbent will join
+
+benign explanation between relationship - random committee assignments
+non-benign explanation between relationship - there is a process that determines that reps should be assigned to committees in order to make their donors happy
+
+brett mentions: is a rep more likely to join a subcommittee if they are within a top 10 sector donor or if that sector is one of the major ones within that district
+
+this guy resigned in the middle of his congress:https://ballotpedia.org/Trey_Radel

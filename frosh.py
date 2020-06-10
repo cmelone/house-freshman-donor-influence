@@ -3,6 +3,16 @@ import yaml, requests, json, sqlite3
 with open('config.json') as file:
     config = json.load(file)
 
+#
+#
+#
+#
+# DO NOT RUN THIS CODE WITHOUT CHECKING alt_full_names
+#
+#
+#
+#
+#
 conn = sqlite3.connect(config['SQLITE_PATH'])
 cur = conn.cursor()
 
@@ -52,9 +62,9 @@ for legislator in legislators:
         resp = requests.get(url).json()
 
         for result in resp['results']:
-            if result['designation'] == 'P' and result['committee_type'] == 'H':
+            if result['designation'] == 'P' and result['committee_type'] == 'H' and 2010 in result['cycles']:
                 committee_fec_id = result['committee_id']
-
+        # before running this....remember alt_full_names
         if committee_fec_id == '':
             print(full_name, candidate_fec_id)
         print(count, congress, election_year, state, party, district, full_name, bioguide_id, crp_id, candidate_fec_id, committee_fec_id)
